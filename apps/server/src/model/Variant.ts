@@ -1,3 +1,5 @@
+import { OptionValueToVariant } from './OptionValueToVariant';
+
 export type Variant = {
   id: number;
   name: string;
@@ -7,4 +9,6 @@ export type Variant = {
   productId: number;
   createdAt: Date;
   updatedAt: Date;
+  optionValues?: OptionValueToVariant[]; // Relación con OptionValueToVariant
 };
+

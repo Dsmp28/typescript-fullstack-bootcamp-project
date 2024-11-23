@@ -373,3 +373,109 @@
 2024-11-23T17:06:28.203030Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
 2024-11-23T17:08:21.602066Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/productController.ts"), AnchoredSystemPathBuf("apps/server/src/controllers/productController.ts~"), AnchoredSystemPathBuf("apps/server/src/services/ProductService.ts~"), AnchoredSystemPathBuf("apps/server/src/services/ProductService.ts")}
 2024-11-23T17:08:21.602096Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:14:39.711106Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml~")}
+2024-11-23T17:14:39.711114Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-23T17:19:54.211411Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml~")}
+2024-11-23T17:19:54.211422Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-23T17:20:21.410670Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/Variant.ts~"), AnchoredSystemPathBuf("apps/server/src/model/Variant.ts")}
+2024-11-23T17:20:21.410679Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:20:34.510870Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/Option.ts~"), AnchoredSystemPathBuf("apps/server/src/model/Option.ts")}
+2024-11-23T17:20:34.510881Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:20:51.510699Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/OptionValue.ts")}
+2024-11-23T17:20:51.510710Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:20:56.310753Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/OptionValue.ts~"), AnchoredSystemPathBuf("apps/server/src/model/OptionValue.ts")}
+2024-11-23T17:20:56.310762Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:21:18.510830Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/OptionValueToVariant")}
+2024-11-23T17:21:18.510840Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:21:31.410786Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/OptionValueToVariant")}
+2024-11-23T17:21:31.410799Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:21:41.111213Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/OptionValueToVariant.ts")}
+2024-11-23T17:21:41.111228Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:21:44.911629Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/OptionValueToVariant.ts~"), AnchoredSystemPathBuf("apps/server/src/model/OptionValueToVariant.ts")}
+2024-11-23T17:21:44.911639Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:21:57.710521Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/Collection.ts")}
+2024-11-23T17:21:57.710531Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:22:50.011042Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/model/Collection.ts~"), AnchoredSystemPathBuf("apps/server/src/model/Option.ts~"), AnchoredSystemPathBuf("apps/server/src/model/OptionValue.ts~"), AnchoredSystemPathBuf("apps/server/src/model/OptionValueToVariant.ts~"), AnchoredSystemPathBuf("apps/server/src/model/Collection.ts"), AnchoredSystemPathBuf("apps/server/src/model/OptionValue.ts"), AnchoredSystemPathBuf("apps/server/src/model/Option.ts"), AnchoredSystemPathBuf("apps/server/src/model/Variant.ts~"), AnchoredSystemPathBuf("apps/server/src/model/OptionValueToVariant.ts"), AnchoredSystemPathBuf("apps/server/src/model/Variant.ts")}
+2024-11-23T17:22:50.011053Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:24:12.810927Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/VariantService.ts")}
+2024-11-23T17:24:12.810941Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:25:00.411101Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/VariantService.ts~"), AnchoredSystemPathBuf("apps/server/src/services/VariantService.ts")}
+2024-11-23T17:25:00.411126Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:25:00.710530Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml~"), AnchoredSystemPathBuf(".idea/workspace.xml")}
+2024-11-23T17:25:00.710542Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-23T17:25:12.210505Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/OptionService.ts")}
+2024-11-23T17:25:12.210522Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:25:28.509967Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/OptionService.ts"), AnchoredSystemPathBuf("apps/server/src/services/OptionService.ts~")}
+2024-11-23T17:25:28.509980Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:25:44.010916Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/OptionValueService.ts")}
+2024-11-23T17:25:44.010925Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:27:28.509725Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/OptionValueService.ts"), AnchoredSystemPathBuf("apps/server/src/services/OptionValueService.ts~")}
+2024-11-23T17:27:28.509735Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:27:48.610486Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/OptionValueToVariantService")}
+2024-11-23T17:27:48.610508Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:28:00.512347Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/OptionValueToVariantService")}
+2024-11-23T17:28:00.512505Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:28:12.109813Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/OptionValueToVariantService.ts")}
+2024-11-23T17:28:12.109824Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:28:16.709361Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/OptionValueToVariantService.ts"), AnchoredSystemPathBuf("apps/server/src/services/OptionValueToVariantService.ts~")}
+2024-11-23T17:28:16.709374Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:28:41.611142Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/CollectionService.ts")}
+2024-11-23T17:28:41.611153Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:29:02.610545Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/services/CollectionService.ts"), AnchoredSystemPathBuf("apps/server/src/services/CollectionService.ts~")}
+2024-11-23T17:29:02.610555Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:29:52.840022Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/variantController.ts")}
+2024-11-23T17:29:52.840033Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:30:16.310281Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/variantController.ts~"), AnchoredSystemPathBuf("apps/server/src/controllers/variantController.ts")}
+2024-11-23T17:30:16.310290Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:30:16.610310Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml~")}
+2024-11-23T17:30:16.610321Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-23T17:30:27.810363Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/optionController.ts")}
+2024-11-23T17:30:27.810374Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:30:37.809404Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/optionController.ts~"), AnchoredSystemPathBuf("apps/server/src/controllers/optionController.ts")}
+2024-11-23T17:30:37.809415Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:31:03.710044Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/optionValueController.ts")}
+2024-11-23T17:31:03.710055Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:31:09.809767Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/optionValueController.ts"), AnchoredSystemPathBuf("apps/server/src/controllers/optionValueController.ts~")}
+2024-11-23T17:31:09.809781Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:31:27.610232Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/collectionController.ts")}
+2024-11-23T17:31:27.610242Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:31:45.609596Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/controllers/collectionController.ts~"), AnchoredSystemPathBuf("apps/server/src/controllers/collectionController.ts")}
+2024-11-23T17:31:45.609604Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:32:38.729729Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/variants")}
+2024-11-23T17:32:38.729740Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:32:38.861284Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-23T17:32:44.530672Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/variants/index.ts")}
+2024-11-23T17:32:44.530727Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:33:07.333306Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/variants/index.ts"), AnchoredSystemPathBuf("apps/server/src/routes/variants/index.ts~")}
+2024-11-23T17:33:07.333316Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:33:15.433526Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/options")}
+2024-11-23T17:33:15.433538Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:33:15.461582Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-23T17:33:22.733938Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/options/index.ts")}
+2024-11-23T17:33:22.733948Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:33:30.334032Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/options/index.ts~"), AnchoredSystemPathBuf("apps/server/src/routes/options/index.ts")}
+2024-11-23T17:33:30.334042Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:33:52.334262Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/optionValues")}
+2024-11-23T17:33:52.334287Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:33:52.334326Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-23T17:34:00.433219Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/optionValues/index.ts")}
+2024-11-23T17:34:00.433231Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:34:06.033048Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/optionValues/index.ts"), AnchoredSystemPathBuf("apps/server/src/routes/optionValues/index.ts~")}
+2024-11-23T17:34:06.033059Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:34:17.635373Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/collections")}
+2024-11-23T17:34:17.635382Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:34:17.635401Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-11-23T17:34:24.933894Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/routes/collections/index.ts")}
+2024-11-23T17:34:24.933905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:35:04.633453Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/index.ts"), AnchoredSystemPathBuf("apps/server/src/index.ts~"), AnchoredSystemPathBuf("apps/server/src/routes/collections/index.ts~"), AnchoredSystemPathBuf("apps/server/src/routes/collections/index.ts")}
+2024-11-23T17:35:04.633468Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:35:19.334773Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/index.ts"), AnchoredSystemPathBuf("apps/server/src/index.ts~")}
+2024-11-23T17:35:19.334782Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T17:35:19.634054Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml~"), AnchoredSystemPathBuf(".idea/workspace.xml")}
+2024-11-23T17:35:19.634063Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-23T17:36:01.434242Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/server/src/index.ts~"), AnchoredSystemPathBuf("apps/server/src/index.ts")}
+2024-11-23T17:36:01.434252Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("apps/server") }}))
+2024-11-23T21:19:48.341507Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml~")}
+2024-11-23T21:19:48.341566Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-11-23T21:34:08.933080Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml~"), AnchoredSystemPathBuf(".idea/workspace.xml")}
+2024-11-23T21:34:08.933090Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
