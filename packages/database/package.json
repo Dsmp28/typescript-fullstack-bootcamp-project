@@ -5,7 +5,10 @@
     "@prisma/client": "5.22.0"
   },
   "devDependencies": {
-    "prisma": "5.22.0"
+    "prisma": "5.22.0",
+    "@faker-js/faker": "^8.4.1",
+    "@types/node": "^22.5.1",
+    "tsx": "^4.17.0"
   },
   "scripts": {
     "db:start": "docker compose up -d",
@@ -13,5 +16,8 @@
     "db:generate": "prisma generate",
     "db:migrate": "prisma db push --skip-generate",
     "db:seed": "tsx ./src/seed.ts"
+  },
+  "exports": {
+    ".": "./src/index.ts"
   }
 }

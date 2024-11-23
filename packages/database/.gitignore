@@ -30,3 +30,5 @@ public/dist
 *.njsproj
 *.sln
 *.sw?
+
+prisma/prisma-client
